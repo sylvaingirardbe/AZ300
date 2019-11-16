@@ -20,7 +20,7 @@ Hands-on Training:
 * ✔️ is completed
 * ... in progress
 
-#### ...Analyze resource utilization and consumption
+#### ✔️ Analyze resource utilization and consumption
 + [configure diagnostic settings on resources](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 + [create baseline for resources](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-dynamic-thresholds)
 + [create and rest alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-metric)
@@ -33,7 +33,7 @@ Hands-on Training:
 + [utilize Log Search query functions](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/log-query-overview)
 + [view alerts in Azure Monitor logs](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alert-management-solution)
 
-#### Create and configure storage accounts
+#### ... Create and configure storage accounts
 + [configure network access to the storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-network-security)
 + [create and configure storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
 + [generate shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
